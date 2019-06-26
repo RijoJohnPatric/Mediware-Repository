@@ -2,3 +2,19 @@
 
 
    http://mediwarecloud.com/mediwareqc/
+
+
+   https://accounts.zoho.com/signin?servicename=ZohoProjects&signupurl=https://www.zoho.com/projects/signup.html
+
+
+  Steps to reproduce:
+
+1) Launch the application :http://mediwarecloud.com/MediwareQC/login.aspx
+2) Login to the application
+3) Select Appointments module from the application selector
+4) Select Menu>>Reports>>Any submenu (eg:Patient Reg.User Details)
+
+Expected Result
+The corresponding page related to submenu only should display
+Actual Result
+Along with the submenu page "DOCTOR LEAVE" page is also displaying and no close button is avilable for submenu page. please find the attachment.
